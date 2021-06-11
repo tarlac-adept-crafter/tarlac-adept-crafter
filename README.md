@@ -1,8 +1,19 @@
-I reached the Adept Crafter rank in Wizard101 one time. My crafting level in Runescape is also pretty high. Now I am hoping to become adept at crafting programs.
+### Tarlac, Adept Crafter
 
-I publish scripts and programs that make it easier to manage servers and games that I play.
+- Hoping to become adept at crafting programs.
+- Mainly work in C/C++ and Python for work.
+- Hobby projects have used C#, Python, C++, Java, Windows Batch, Bash, 
+  and Lua, from most to least used.
 
-<!---
-tarlac-adept-crafter/tarlac-adept-crafter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me
+
+I love playing video games and I also host and manage game servers for my 
+friends. I publish scripts and programs that make it easier to manage servers 
+and games that I play. Hopefully these tools can help others as well!
+
+Learn more about me at [my website](https://tarlac-adept-crafter.github.io)! (once I actually make it...)
+
+### Why Adept Crafter?
+
+- I reached the Adept Crafter rank in Wizard101 one time.
+- My crafting level in Runescape is also pretty high.
